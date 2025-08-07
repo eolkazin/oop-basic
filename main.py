@@ -1,5 +1,5 @@
 class Animals:
-    """Animals class
+    """Animals class!
 
     This class contains the base information for Animals.
     """
